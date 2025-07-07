@@ -3,7 +3,7 @@
 A simple C program to check whether an input string is a palindrome.
 
 ## How to Compile and Run
-
+You can compile and run the C program using the GCC compiler.
 ```bash
 gcc palindrome.c -o palindrome
 ./palindrome
