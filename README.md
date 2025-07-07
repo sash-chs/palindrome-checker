@@ -16,5 +16,5 @@ It is a palindrome
 ```
 ## Notes
 - This program only checks for **one-word** strings (no spaces).
-- It is **case-sensitive** — for example, `Racecar` will not be treated as a palindrome.
+- It is **case-sensitive** — for example, `Racecar` is not a palindrome.
 - The input string can have a maximum of 64 characters.
