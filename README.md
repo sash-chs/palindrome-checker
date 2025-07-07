@@ -1,5 +1,9 @@
-# Palindrome checker
+# Palindrome Checker (C)
 
-A simple program that checks whether a string is a palindrome.
+A simple C program to check whether an input string is a palindrome.
 
-Works for strings shorter than 64 characters.
+## How to Compile and Run
+
+```bash
+gcc palindrome.c -o palindrome
+./palindrome
