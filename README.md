@@ -10,16 +10,9 @@ gcc palindrome.c -o palindrome
 ```
 
 ## Example
-### Input 1
 ```bash
 The string is: racecar
 It is a palindrome
-```
-## Example
-### Input 2
-```bash
-The string is: yellow
-It is not a palindrome
 ```
 
 ## Notes
