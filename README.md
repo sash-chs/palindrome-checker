@@ -9,7 +9,6 @@ gcc palindrome.c -o palindrome
 ./palindrome
 
 ## Example
-```bash
 The string is: racecar
 It is a palindrome
 
