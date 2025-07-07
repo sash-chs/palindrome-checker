@@ -7,11 +7,13 @@ A simple C program to check whether an input string is a palindrome.
 ```bash
 gcc palindrome.c -o palindrome
 ./palindrome
+```
 
 ## Example
+```bash
 The string is: racecar
 It is a palindrome
-
-### Note
+```
+## Note
 - This program only checks for **one-word** strings (no spaces).
 - It is **case-sensitive** — for example, `Racecar` will not be treated as a palindrome.
